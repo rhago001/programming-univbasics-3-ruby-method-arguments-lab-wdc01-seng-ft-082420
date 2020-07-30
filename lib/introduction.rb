@@ -9,6 +9,19 @@ def introduction (name)
   
 end
 introduction ("Josh")
+<<<<<<< HEAD
+=======
+
+
+def introduction_with_language (name, language = "Ruby")
+  
+  puts " =Him"
+  
+end
+
+
+
+>>>>>>> 218293b966bbf3134d06fe28e2a270a66814e1a4
 
 
 def introduction_with_language (name, language = "Ruby")
